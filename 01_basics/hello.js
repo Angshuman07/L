@@ -55,3 +55,13 @@ let state;
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
+
+
+// Data Types
+
+//Primitive (Number,Strig,Bool,Null,undefined,BigInt) 
+//Reference (Non-primitive) (Arrays,Objects,Functions)
+
+//typeof null is object
+
+//Stack(primitive) Heap(Reference)
